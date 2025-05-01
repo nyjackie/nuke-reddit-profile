@@ -1,5 +1,6 @@
 # nuke-reddit-profile
 Scripts to nuke reddit profiles
+You might ask why don't I use Reddit API. Because I want to run scripts without polluting my api keys :)
 
 Nuke Reddit Comments
 
@@ -18,3 +19,4 @@ window.setInterval(function(){
 	i++;
 }, 1000);
 ```
+
