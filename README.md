@@ -5,7 +5,7 @@ You might ask why don't I use Reddit API. Because I want to run scripts without 
 Nuke Reddit Comments
 
 ```
-# go to https://old.reddit.com/user/DunnoWhatKek/comments/
+# go to https://old.reddit.com/user/your_user_name/comments/
 # run below script - this will delete all the comments on the current page
 
 var i = 0;
